@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://x.com/LucaHuangLujia"><img src="https://img.shields.io/badge/X-@LucaHuangLujia-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lxkz1&color=4C8DFF&style=flat&label=profile+views" alt="Profile views" />
+  <img src="https://hits.sh/github.com/lxkz1.svg?label=profile%20views&color=4c8dff" alt="Profile views" />
 </p>
 
 ### About
