@@ -13,7 +13,7 @@
 
 ### About
 
-Student based in Rome, mostly interested in machine learning and how language models actually work under the hood.
+Student based in Rome, mostly interested in Machine Learning and how Large Language Models actually work under the hood.
 
 **Currently working on**
 
