@@ -17,7 +17,7 @@ Student based in Rome, mostly interested in Machine Learning and how Large Langu
 
 **Currently working on**
 
-- experiments with small language models, especially around how they handle memory
+- experiments with small language models, especially around how they handle memory and how they learn from datasets
 - an assistant that helps people who are new to a country deal with their phone, official forms and paperwork in their own language
 
 I write mostly in Python.
