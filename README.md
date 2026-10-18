@@ -15,18 +15,14 @@
 
 <h3 align="center">About me</h3>
 
-```python
-class Luca:
-    based_in  = "Rome, Italy"
-    focus     = ["machine learning", "language models"]
-    exploring = ["quantum computing"]
-    building  = [
-        "experiments with small language models: how they handle memory and learn from datasets",
-        "an assistant that helps newcomers to a country with phones, forms and paperwork",
-    ]
-    learning  = ["object-oriented programming in Python"]
-    writes_in = ["Python"]
-```
+Student based in Rome, mostly interested in Machine Learning and how Large Language Models actually work under the hood. Lately I've also been exploring quantum computing.
+
+**Currently working on**
+- experiments with small language models, especially around how they handle memory and how they learn from datasets
+- an assistant that helps people who are new to a country deal with their phone, official forms and paperwork in their own language
+- Object-Oriented Programming in Python
+
+I write mostly in Python.
 
 <h3 align="center">Interests</h3>
 
@@ -51,9 +47,9 @@ class Luca:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" />
   </picture>
 </p>
 
