@@ -21,13 +21,11 @@ class Luca:
     focus     = ["machine learning", "language models"]
     exploring = ["quantum computing"]
     building  = [
-        "experiments with small language models and how they handle memory",
+        "experiments with small language models: how they handle memory and learn from datasets",
         "an assistant that helps newcomers to a country with phones, forms and paperwork",
     ]
+    learning  = ["object-oriented programming in Python"]
     writes_in = ["Python"]
-
-    def status(self):
-        return "Everything here is a work in progress."
 ```
 
 <h3 align="center">Interests</h3>
