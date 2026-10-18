@@ -1,4 +1,4 @@
-name: Generate Pac-Man contribution graph
+name: Generate quantum contribution graph
 
 on:
   schedule:
@@ -12,13 +12,15 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
-      - name: Generate Pac-Man SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "pacman"
+      - uses: actions/checkout@v4
+
+      - name: Render quantum graph SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/quantum_graph.py dist
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

@@ -47,9 +47,9 @@ I write mostly in Python.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph.svg" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg" alt="My contribution graph, collapsing out of superposition" />
   </picture>
 </p>
 
