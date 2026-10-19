@@ -121,7 +121,7 @@ def render(theme):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    for theme, name in (("dark", "bloch-dark.svg"), ("light", "bloch.svg")):
+    for theme, name in (("dark", "bloch-mono-dark.svg"), ("light", "bloch-mono.svg")):
         with open(os.path.join(OUT, name), "w", encoding="utf-8") as fh:
             fh.write(render(theme))
 

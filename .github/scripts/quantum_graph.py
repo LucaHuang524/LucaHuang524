@@ -190,7 +190,7 @@ def main():
     else:
         weeks, total = fetch_weeks()
     os.makedirs(OUT_DIR, exist_ok=True)
-    for theme, name in (("dark", "quantum-graph-dark.svg"), ("light", "quantum-graph.svg")):
+    for theme, name in (("dark", "quantum-mono-dark.svg"), ("light", "quantum-mono.svg")):
         with open(os.path.join(OUT_DIR, name), "w", encoding="utf-8") as fh:
             fh.write(render(weeks, total, theme))
 
