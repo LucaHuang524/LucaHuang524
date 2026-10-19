@@ -25,9 +25,9 @@ I write mostly in Python.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-dark.svg" alt="A qubit on a Bloch sphere, surrounded by my interests: machine learning, language models, quantum computing, digital inclusion" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-dark.svg?v=bw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch.svg?v=bw" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-dark.svg?v=bw" alt="A qubit on a Bloch sphere, surrounded by my interests: machine learning, language models, quantum computing, digital inclusion" />
   </picture>
 </p>
 
@@ -39,9 +39,9 @@ I write mostly in Python.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg" alt="My contribution graph, collapsing out of superposition" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg?v=bw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph.svg?v=bw" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-graph-dark.svg?v=bw" alt="My contribution graph, collapsing out of superposition" />
   </picture>
 </p>
 
