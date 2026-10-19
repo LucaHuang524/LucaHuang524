@@ -20,10 +20,10 @@ LEFT = ["machine learning", "language models"]
 RIGHT = ["quantum computing", "digital inclusion"]
 
 THEMES = {
-    "dark": {"line": "#2DD4BF", "vec": "#22D3EE", "tip": "#A5F3FC",
-             "text": "#C9D1D9", "accent": "#5EEAD4", "faint": "#2DD4BF"},
-    "light": {"line": "#0E7490", "vec": "#0891B2", "tip": "#0E7490",
-              "text": "#24292F", "accent": "#0B6475", "faint": "#0E7490"},
+    "dark": {"line": "#D0D0D0", "vec": "#FFFFFF", "tip": "#FFFFFF",
+             "text": "#C9D1D9", "accent": "#FFFFFF", "faint": "#FFFFFF"},
+    "light": {"line": "#555555", "vec": "#111111", "tip": "#111111",
+              "text": "#24292F", "accent": "#111111", "faint": "#000000"},
 }
 
 

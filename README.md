@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3B4A,100:22D3EE&height=220&section=header&text=Luca%20Huang&fontSize=50&fontColor=E6FFFB&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Language%20Models%20%C2%B7%20Quantum%20Computing&descAlignY=58&descSize=16&animation=twinkling" alt="Luca Huang" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1C1C1C,100:5A5A5A&height=220&section=header&text=Luca%20Huang&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Language%20Models%20%C2%B7%20Quantum%20Computing&descAlignY=58&descSize=16&animation=twinkling" alt="Luca Huang" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&multiline=false&width=640&lines=Machine+learning+and+language+models;Exploring+quantum+computing;Building+tools+that+make+tech+easier+to+use;Based+in+Rome%2C+Italy" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=E6E6E6&center=true&vCenter=true&multiline=false&width=640&lines=Machine+learning+and+language+models;Exploring+quantum+computing;Building+tools+that+make+tech+easier+to+use;Based+in+Rome%2C+Italy" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@ I write mostly in Python.
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=lxkz1&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=8B949E&dates=6E7681&currStreakNum=E6FFFB&sideNums=E6FFFB&stroke=1F2A33" alt="Contribution streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=lxkz1&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0B3B4A,100:0D1117&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A5A5A,45:1C1C1C,100:000000&height=120&section=footer" alt="" />
 </p>
