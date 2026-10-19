@@ -26,19 +26,19 @@ RESET_AT = 12.8     # cells fall back into superposition
 THEMES = {
     "dark": {
         "bg": "#0D1117",
-        "levels": ["#161B22", "#2B3A67", "#4C5FD5", "#7B5CFF", "#C3B1FF"],
-        "qubit": "#7B5CFF",
-        "beam": "#C3B1FF",
+        "levels": ["#161B22", "#0E4D5C", "#0E7C8C", "#22B8CF", "#7DF9FF"],
+        "qubit": "#22D3EE",
+        "beam": "#A5F3FC",
         "text": "#8B949E",
-        "accent": "#C3B1FF",
+        "accent": "#5EEAD4",
     },
     "light": {
         "bg": "#FFFFFF",
-        "levels": ["#EBEDF0", "#D8D1FF", "#A897FF", "#7B5CFF", "#4B2FD6"],
-        "qubit": "#7B5CFF",
-        "beam": "#7B5CFF",
+        "levels": ["#EBEDF0", "#B5EEF5", "#5CCFE0", "#0E9FB5", "#0B6475"],
+        "qubit": "#0E9FB5",
+        "beam": "#0E9FB5",
         "text": "#57606A",
-        "accent": "#4B2FD6",
+        "accent": "#0B6475",
     },
 }
 
