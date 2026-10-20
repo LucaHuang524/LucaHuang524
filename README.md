@@ -19,7 +19,7 @@ Student based in Rome, mostly interested in Machine Learning and how Large Langu
 - an assistant that helps people who are new to a country deal with their phone, official forms and paperwork in their own language
 - Object-Oriented Programming in Python
 
-I write mostly in Python.
+
 
 <br />
 
