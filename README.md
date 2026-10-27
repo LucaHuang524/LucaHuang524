@@ -32,7 +32,7 @@ Student based in Rome, mostly interested in Machine Learning and how Large Langu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,git,github,vscode&theme=dark&perline=6" alt="Python, PyTorch, Jupyter, Git, GitHub, VS Code" />
+  <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/tools.svg" alt="Python, PyTorch, Jupyter, Git, GitHub, VS Code" />
 </p>
 
 <br />
