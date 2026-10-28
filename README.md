@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=E6E6E6&center=true&vCenter=true&multiline=false&width=640&lines=Machine+learning+and+language+models;Exploring+quantum+computing;Building+tools+that+make+tech+easier+to+use;Based+in+Rome%2C+Italy" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=E6E6E6&center=true&vCenter=true&multiline=false&width=640&lines=machine+learning;language+models;quantum+computing;Rome%2C+Italy" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -12,22 +12,21 @@
 
 <br />
 
-Student based in Rome, mostly interested in Machine Learning and how Large Language Models actually work under the hood. Lately I've also been exploring quantum computing.
+Student in Rome. I'm learning machine learning from the ground up and I'm interested in quantum computing.
 
-**Currently working on**
-- experiments with small language models, especially around how they handle memory and how they learn from datasets
-- an assistant that helps people who are new to a country deal with their phone, official forms and paperwork in their own language
-- Object-Oriented Programming in Python
-
-
+**Right now**
+- working through Andrej Karpathy's *Neural Networks: Zero to Hero*, currently on micrograd
+- small language models: how they handle memory and learn from data
+- an assistant that helps people new to a country with their phone, forms and paperwork
+- object-oriented programming in Python
 
 <br />
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-mono-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-mono.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/bloch-mono-dark.svg" alt="A qubit on a Bloch sphere, surrounded by my interests: machine learning, language models, quantum computing, digital inclusion" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network.svg" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network-dark.svg" alt="A small neural network running a forward pass, then a backward pass" />
   </picture>
 </p>
 
@@ -39,9 +38,9 @@ Student based in Rome, mostly interested in Machine Learning and how Large Langu
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-mono-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-mono.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/quantum-mono-dark.svg" alt="My contribution graph, collapsing out of superposition" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve.svg" />
+    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve-dark.svg" alt="My weekly contributions over the last 12 months" />
   </picture>
 </p>
 
