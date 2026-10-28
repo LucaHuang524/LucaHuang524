@@ -77,7 +77,8 @@ def render(weeks, total, theme):
     cw, ch = W - PAD_L - PAD_R, H - PAD_T - PAD_B
     step = cw / (len(counts) - 1)
     base = PAD_T + ch
-    pts = [(PAD_L + i * step, base - ch * c / peak) for i, c in enumerate(counts)]
+    # square-root scale so one huge week does not flatten everything else
+    pts = [(PAD_L + i * step, base - ch * (c / peak) ** .5) for i, c in enumerate(counts)]
     line = smooth_path(pts, base, PAD_T)
     area = f"{line} L{pts[-1][0]:.1f},{base:.1f} L{pts[0][0]:.1f},{base:.1f} Z"
     best = max(range(len(counts)), key=lambda i: counts[i])
