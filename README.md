@@ -37,14 +37,6 @@ Student in Rome. I'm learning machine learning from the ground up and I'm intere
 <br />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/output/curve-dark.svg" alt="My weekly contributions over the last 12 months" />
-  </picture>
-</p>
-
-<p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=lxkz1&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="Contribution streak" />
 </p>
 
