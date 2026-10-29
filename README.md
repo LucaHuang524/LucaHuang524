@@ -24,20 +24,20 @@ Student in Rome. I'm learning machine learning from the ground up and I'm intere
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network.svg" />
-    <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/network-dark.svg" alt="A small neural network running a forward pass, then a backward pass" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaHuang524/LucaHuang524/main/assets/network-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaHuang524/LucaHuang524/main/assets/network.svg" />
+    <img src="https://raw.githubusercontent.com/LucaHuang524/LucaHuang524/main/assets/network-dark.svg" alt="A small neural network running a forward pass, then a backward pass" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lxkz1/lxkz1/main/assets/tools.svg" alt="Python, PyTorch, Jupyter, Git, GitHub, VS Code" />
+  <img src="https://raw.githubusercontent.com/LucaHuang524/LucaHuang524/main/assets/tools.svg" alt="Python, PyTorch, Jupyter, Git, GitHub, VS Code" />
 </p>
 
 <br />
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=lxkz1&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="Contribution streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=LucaHuang524&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="Contribution streak" />
 </p>
 
 <p align="center">
